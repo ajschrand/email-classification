@@ -1,0 +1,38 @@
+Loading data...
+Training decision trees... (01/18) - 18.14s
+Training decision trees... (02/18) - 5.41s
+Training decision trees... (03/18) - 21.86s
+Training decision trees... (04/18) - 7.93s
+Training decision trees... (05/18) - 23.72s
+Training decision trees... (06/18) - 8.68s
+Training decision trees... (07/18) - 27.44s
+Training decision trees... (08/18) - 10.56s
+Training decision trees... (09/18) - 23.53s
+Training decision trees... (10/18) - 10.95s
+Training decision trees... (11/18) - 23.99s
+Training decision trees... (12/18) - 11.66s
+Training decision trees... (13/18) - 25.73s
+Training decision trees... (14/18) - 14.72s
+Training decision trees... (15/18) - 28.46s
+Training decision trees... (16/18) - 12.71s
+Training decision trees... (17/18) - 25.33s
+Training decision trees... (18/18) - 12.29s
+   criterion max_depth  accuracy
+0    entropy        10  0.168711
+1       gini        10  0.150204
+2    entropy        15  0.252918
+3       gini        15  0.203731
+4    entropy        20  0.430422
+5       gini        20  0.272245
+6    entropy        25  0.570799
+7       gini        25  0.364723
+8    entropy        30  0.581415
+9       gini        30  0.453657
+10   entropy        35  0.581504
+11      gini        35  0.518522
+12   entropy        40  0.581579
+13      gini        40  0.555701
+14   entropy        45  0.581735
+15      gini        45  0.573062
+16   entropy        77  0.581557
+17      gini        77  0.582428
